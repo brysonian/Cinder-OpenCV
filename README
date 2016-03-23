@@ -1,3 +1,6 @@
+# If you are using Cinder 0.9.0 and up please use the block from https://github.com/cinder/Cinder-OpenCV3
+
 This is the OpenCV CinderBlock, designed for use with the open-source C++ library Cinder: http://libcinder.org
 
 OpenCV 2.4.9.
+
